@@ -16,14 +16,16 @@ export default class Player extends React.Component {
 
   }
 
+  getCurrentBuffer() {
 
+  }
 
   render() {
     return (
       <div>
 
+        <button></button>
       </div>
     )
   }
-
 }
