@@ -4,6 +4,8 @@ import { connect } from 'react-redux';
 
 import * as actions from '../actions';
 
+import player from './Player';
+
 const Home = ({ counterValue, handleIncreaseValue, handleDecreaseValue }) => (
   <div>
     <h2>Home Page</h2>
